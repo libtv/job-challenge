@@ -137,7 +137,7 @@
 | **면접** | **합격** |
 | **최종** | **입사포기** |
 
-![initial](./songpa/%EC%86%A1%ED%8C%8C%EA%B5%AC%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC%EA%B3%B5%EB%8B%A81.PNG)
-![initial](./songpa/%EC%86%A1%ED%8C%8C%EA%B5%AC%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC%EA%B3%B5%EB%8B%A82.PNG)
+![initial](./cnu/1.png)
+![initial](./cnu/2.png)
 
 <br>
