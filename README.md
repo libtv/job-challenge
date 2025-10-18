@@ -178,9 +178,9 @@
 | **면접** | **불합격** |
 
 ![initial](./kriss/1.png)
-![initial](./kriss/2.png)
-![initial](./kriss/3.png)
-![initial](./kriss/4.png)
+![initial](./kriss/2.PNG)
+![initial](./kriss/3.PNG)
+![initial](./kriss/4.PNG)
 
 <br>
 
