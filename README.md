@@ -177,7 +177,7 @@
 | **서류** | **합격** |
 | **면접** | **합격** |
 
-![initial](./kicet/1.png)
+![initial](./kicet/1.jpg)
 
 <br>
  
