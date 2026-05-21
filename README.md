@@ -177,6 +177,7 @@
 | **면접** | **불합** |
 
 ![initial](./cbuh/%EC%B6%A9%EB%B6%81%EB%8C%80%EB%B3%91%EC%9B%903.PNG)
+![initial](./cbuh/%EC%B6%A9%EB%B6%81%EB%8C%80%EB%B3%91%EC%9B%904.PNG)
 
 <br>
  
